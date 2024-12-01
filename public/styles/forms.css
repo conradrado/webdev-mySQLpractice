@@ -27,6 +27,7 @@ textarea:focus {
 
 input, textarea {
   width: 100%;
+  white-space: normal;
 }
 
 .form-control {
